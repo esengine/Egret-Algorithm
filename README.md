@@ -1,2 +1,2 @@
-# Artificial-Fish-Algorithm
-人工鱼群算法
+# Algorithm
+该项目用于集合所有在游戏中可能用到的算法实例
